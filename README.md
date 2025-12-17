@@ -40,8 +40,9 @@
      src="https://streamlit.io/images/brand/streamlit-mark-color.png"
      alt="Streamlit"/>
      <img width="50px" height="50px"
-     src="https://cdnlogo.com/logos/cursor_135097.png"
+     src="https://raw.githubusercontent.com/getcursor/cursor/main/public/favicon.ico"
      alt="Cursor"/>
+
   </p>
 
   ### 🤖 AI & Data Science
