@@ -52,7 +52,7 @@
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/39938107?s=200&v=4" alt="MLflow"/>
     <img width="50px" height="50px" src="https://avatars.githubusercontent.com/u/365630?s=200&v=4" alt="SciKit Learn"/>
     <img width="50px" height="50px"
-     src="https://raw.githubusercontent.com/run-llama/logos/main/color/llamaindex-square.png"
+     src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4"
      alt="LlamaIndex"/>
      <img width="50px" height="50px"
      src="https://logo.svgcdn.com/logos/opencv.png"
