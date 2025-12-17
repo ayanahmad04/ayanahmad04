@@ -39,9 +39,7 @@
     <img width="50px" height="50px"
      src="https://streamlit.io/images/brand/streamlit-mark-color.png"
      alt="Streamlit"/>
-     <img width="50px" height="50px"
-     src="https://raw.githubusercontent.com/getcursor/cursor/main/public/favicon.ico"
-     alt="Cursor"/>
+     
 
   </p>
 
