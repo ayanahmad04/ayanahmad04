@@ -1,8 +1,8 @@
 # Ayan Ahmad
 
 <div align="center">
-  <a href="https://huggingface.co/ayandevv" target="_blank" rel="nofollow noopener noreferrer">
-    <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-ffcc00?logo=huggingface&logoColor=black&style=for-the-badge"/>
+  <a href="https://leetcode.com/u/ayan_ahmadd/" target="_blank" rel="nofollow noopener noreferrer">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=black&style=for-the-badge"/>
   </a>
   <a href="mailto:ayanahmadkhan1165@gmail.com" target="_blank" rel="nofollow noopener noreferrer">
     <img alt="gmail" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
