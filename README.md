@@ -13,9 +13,7 @@
   <a href="https://www.kaggle.com/ayanahmad1221" target="_blank" rel="nofollow noopener noreferrer">
     <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge"/>
   </a>
- <a href="https://x.com/ayandevv" target="_blank" rel="nofollow noopener noreferrer">
-  <img alt="X" src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge"/>
-</a>
+
 </div>
 
 ---
